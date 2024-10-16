@@ -1,1 +1,2 @@
 # ArchitectArithmetic
+In this project, a variety of C# methods were used to build a program that calculates the material cost for an architect’s floor plan, i.e. calculating the area of shapes such as a circle, rectangle or triangle in respect to a building's design. Mathematical formulae were used to create the shape methods in this project, which were then utilised in the general methods and switch statements to allow for choice of floor plan, which was reflected in the console back to the user, returning the price of materials for that specific building. 
